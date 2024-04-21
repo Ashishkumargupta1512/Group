@@ -1,0 +1,11 @@
+
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      
+      <class name="MavenJenkins.ThreeTest"/>
+      <class name="MavenJenkins.FourTest"/>
+  
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
